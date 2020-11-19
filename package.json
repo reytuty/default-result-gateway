@@ -1,0 +1,11 @@
+{
+  "name": "default-result-gateway",
+  "version": "1.0.0",
+  "description": "Execute the method and process the result into a normalized object to the callback method as parameter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato Miawaki and Alan Lucian",
+  "license": "ISC"
+}
